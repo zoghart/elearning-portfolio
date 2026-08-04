@@ -10,8 +10,8 @@ textDirection:'ltr'
 Slide392:{
 lb:'',
 id:392,
-from:2005,
-to:2094,
+from:2095,
+to:2184,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -85,9 +85,9 @@ uid:392,
 dn:'Slide392',
 visible:'1'
 },
-StAd4:{
-from:2095,
-to:2879,
+StAd8:{
+from:2185,
+to:2969,
 src:'ar/12617.mp3',
 du:26189,
 saup:[{
@@ -8121,7 +8121,7 @@ ofct:0,
 enabled:1,
 pa:-1,
 ma:-1,
-pfc:1,
+pfc:0,
 dclk:false,
 amc:true,
 eh:cp.cbKH,
@@ -11097,11 +11097,11 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-3926:{
+3909:{
 ts:''
 }
 ,
-3909:{
+3926:{
 ts:''
 }
 
@@ -16494,11 +16494,11 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-9009:{
+8992:{
 ts:''
 }
 ,
-8992:{
+9009:{
 ts:''
 }
 
@@ -16527,10 +16527,10 @@ uid:8710,
 dn:'Slide8710',
 visible:'1'
 },
-StAd6:{
-from:2095,
-to:2886,
-src:'ar/StAd5.mp3',
+StAd10:{
+from:2185,
+to:2976,
+src:'ar/StAd9.mp3',
 du:26579,
 saup:[{
 sn:790,
@@ -29369,9 +29369,9 @@ uid:10620,
 dn:'Slide10620',
 visible:'1'
 },
-StAd7:{
-from:2095,
-to:2207,
+StAd11:{
+from:2185,
+to:2297,
 src:'ar/12623.mp3',
 du:3806,
 saup:[{
@@ -29888,7 +29888,7 @@ dsType:1,
 dsWidth:80
 }
 ,
-slideAudios:'StAd4,StAd6,StAd7',
+slideAudios:'StAd8,StAd10,StAd11',
 vestr:0,
 vim:0,
 slides:'Slide449,Slide790,Slide3440,Slide8710,Slide9174,Slide10620',
@@ -30274,7 +30274,7 @@ resources:['ar/12617.mp3','ar/KeyClick.mp3']
 ,{
 slideID:4,
 ResourceList:{
-resources:['ar/StAd5.mp3']
+resources:['ar/StAd9.mp3']
 }
 
 }
@@ -30296,7 +30296,7 @@ cp.model.tocVideos=[
 cp.model.audios=[
 'ar/12617.mp3',
 'ar/KeyClick.mp3',
-'ar/StAd5.mp3',
+'ar/StAd9.mp3',
 'ar/12623.mp3'
 ];
 
